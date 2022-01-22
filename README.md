@@ -1,4 +1,5 @@
 # Leetcode Solutions
+## Steps To Contibute to this Repository
 > Specimen for Contribution Reference 
 
 ## [Open Leetcode Problems Section](https://leetcode.com/problemset/all/)
@@ -33,6 +34,8 @@
 
 ### 6. (`Create Pull Request`)
 <img  src="assets/pr2.jpeg?raw=true" width="640" height="360" alt="" />
+
+### 7. (`You can also Open Issue, mentioning which Question's Solution you Want!`)
 
 ### In this way you can successfully contribute to this Repository!! Happy Open Source Contribution!!
 
